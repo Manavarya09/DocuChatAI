@@ -49,10 +49,6 @@ DocuChat AI is an AI-powered document search and chat platform. Instantly upload
 4. **Open your browser**
    Visit `http://localhost:5173` (or the port shown in your terminal)
 
----
-
-## 🌐 Deployment
-Deploy easily on [Lovable](https://lovable.dev/projects/cab53e5b-b6f3-4954-8b4f-2feba8eaea16) or your preferred platform.
 
 ---
 
