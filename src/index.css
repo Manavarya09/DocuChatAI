@@ -135,7 +135,7 @@
   /* Glass Button */
   .glass-button {
     @apply backdrop-blur-xl bg-glass-bg border border-glass-border;
-    @apply hover:bg-glass-border/20 transition-all duration-300;
+    @apply hover:bg-white/5 transition-all duration-300;
     box-shadow: var(--glass-shadow);
   }
   
