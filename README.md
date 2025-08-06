@@ -27,10 +27,7 @@ DocuChat AI is an AI-powered document search and chat platform. Instantly upload
 - Analytics dashboard
 - Modern, responsive UI
 
----
 
-## 🖼️ Screenshots
-![Dashboard](https://lovable.dev/opengraph-image-p98pqg.png)
 
 ---
 
